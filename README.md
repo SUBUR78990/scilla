@@ -258,6 +258,10 @@ usage: scilla subcommand { options }
 ```
 
 Changelog 📌
+
+```
+scilla dir -oj output -oh output  -ot output -i 500,401 -i 5**,401 -c -plain -nr -ua -rua -target 
+```
 -------
 
 Detailed changes for each release are documented in the [release notes](https://github.com/edoardottt/scilla/releases).
