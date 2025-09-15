@@ -262,6 +262,10 @@ Changelog 📌
 ```
 scilla dir -oj output -oh output  -ot output -i 500,401 -i 5**,401 -c -plain -nr -ua -rua -target 
 ```
+
+```
+scilla report -id 5**,4** -is 5**,4** -p 21,25,80 -ws subdomains.txt -ua "CustomUA" -dns 8.8.8.8 -target
+```
 -------
 
 Detailed changes for each release are documented in the [release notes](https://github.com/edoardottt/scilla/releases).
